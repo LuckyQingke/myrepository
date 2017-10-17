@@ -1,2 +1,2 @@
 # myrepository
-hello world
+## something about python learning
